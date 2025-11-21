@@ -13,5 +13,9 @@
   },
   "devDependencies": {
     "postcss": "^8.5.6"
+  },
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/index.html",
+    "dev": "parcel src/index.html"
   }
 }
