@@ -1,0 +1,17 @@
+{
+  "name": "industry",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.22.0",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "parcel": "^2.16.1",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "postcss": "^8.5.6"
+  }
+}
